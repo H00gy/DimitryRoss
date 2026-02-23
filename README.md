@@ -14,7 +14,7 @@ Email: dimitry.ross.hy@gmail.com <br>
 My [CV](Resume.pdf)
 
 # My Projects
-<br>
+
 ## Chrono-Vice Gameplay Prototypes
 
 ### What is Chrono-Vice? <br>
