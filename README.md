@@ -1,5 +1,20 @@
+## About Me
+I am a passionate Game Designer and 3D animator who deeply loves the detailed creation of interactive systems and worlds in video games. I develop games within Unity, and Unreal Engine 5, but I am eager to learn other game engines! <br>
+<br>
+Education: Jacksonville University (2022-2026) B.S. Animation and B.S. Game Design <br>
+<br>
+Solo Developer of "Chrono-Vice" slated to release summer 2026 <br>
+<br>
+Phone +1(505) 800-8126 <br>
+<br>
+Email: dimitry.ross.hy@gmail.com <br>
+<br>
+[ArtStation](https://www.artstation.com/dimitryross)
+<br>
+[CV](Resume.pdf)
+
 # My Projects
-# Chrono-Vice Gameplay Prototypes
+## Chrono-Vice Gameplay Prototypes
 <br>
 ## What is Chrono-Vice?
 Chrono-Vice is my upcoming 2D wristwatch dealing game centered around buying and selling watches while navigating a trend based simulated economic system. This Website demonstrate some gameplay prototypes for Chrono-Vice.
@@ -13,16 +28,4 @@ In "Chrono-Vice" customer NPC's work off of 2 behaviors, buying and selling. Thi
 ## Book system
 This is a book [prototype](https://github.com/H00gy/Unity-2D-book/blob/main/README.md) that will be used as a reference book in "Chrono-Vice" so that the player can identify fake watches.
 
-## About Me
-I am a passionate Game Designer and 3D animator who deeply loves the detailed creation of interactive systems and worlds in video games. I develop games within Unity, and Unreal Engine 5, but I am eager to learn other game engines! <br>
-<br>
-Education: Jacksonville University (2022-2026) B.S. Animation and B.S. Game Design <br>
-<br>
-Solo Developer of "Chrono-Vice" slated to release summer 2026 <br>
-<br>
-Phone +1(505) 800-8126 <br>
-<br>
-Email: dimitry.ross.hy@gmail.com <br>
-<br>
-[ArtStation](https://www.artstation.com/dimitryross)
 
