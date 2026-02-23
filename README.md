@@ -16,7 +16,7 @@ My [CV](Resume.pdf)
 # My Projects
 <br>
 ## Chrono-Vice Gameplay Prototypes
-<br>
+
 ### What is Chrono-Vice? <br>
 Chrono-Vice is my upcoming 2D wristwatch dealing game centered around buying and selling watches while navigating a trend based simulated economic system. This Website demonstrate some gameplay prototypes for Chrono-Vice.
 
