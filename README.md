@@ -17,6 +17,9 @@ My [CV](Resume.pdf)
 
 ## Chrono-Vice Gameplay Prototypes
 
+### Itch.io Page
+[Chrono-Vice](https://h00gy.itch.io/chrono-vice)
+
 ### What is Chrono-Vice? <br>
 Chrono-Vice is my upcoming 2D wristwatch dealing game centered around buying and selling watches while navigating a trend based simulated economic system. This Website demonstrate some gameplay prototypes for Chrono-Vice.
 
