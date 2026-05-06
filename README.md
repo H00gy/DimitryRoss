@@ -24,7 +24,7 @@ My [CV](Resume.pdf)
 This was a job application assignment that was given by Two-Desparados to create a mobile friendly Tic-Tac-Toe game.
 
 ### [Repo](https://github.com/H00gy/tictactoe)
-
+<br>
 
 ## Chrono-Vice Gameplay Prototypes
 
