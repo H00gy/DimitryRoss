@@ -15,6 +15,17 @@ My [CV](Resume.pdf)
 
 # My Projects
 
+## TicTacToe Application Project
+
+### Itch.io Page
+[Tic-Tac-Toe](https://h00gy.itch.io/tic-tac-toe)
+
+### What is this project?
+This was a job application assignment that was given by Two-Desparados to create a mobile friendly Tic-Tac-Toe game.
+
+### [Repo](https://github.com/H00gy/tictactoe)
+
+
 ## Chrono-Vice Gameplay Prototypes
 
 ### Itch.io Page
